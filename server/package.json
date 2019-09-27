@@ -1,0 +1,18 @@
+{
+  "name": "mercadoLibre",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "restler": "^3.4.0",
+    "q": "^1.5.1",
+    "exception-handler": "^0.4.0"
+  },
+  "devDependencies": {
+    "concurrently": "^4.0.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "node-env-run": "^3.0.2",
+    "npm-run-all": "^4.1.3"
+  }
+}

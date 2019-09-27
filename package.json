@@ -1,0 +1,18 @@
+{
+  "name": "mercadoLibre",
+  "version": "1.0.0",
+  "scripts": {
+    "gulp":"gulp",
+    "client": "cd client && yarn start",
+    "server": "nodemon server/server.js",
+    "dev": "npm run client | npm run server | gulp"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.1",
+    "gulp-minify-css": "1.2.4",
+    "gulp-sass": "3.2.1",
+    "node-env-run": "^3.0.2",
+    "npm-run-all": "^4.1.3"
+  }
+}
