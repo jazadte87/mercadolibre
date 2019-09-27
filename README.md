@@ -1,7 +1,10 @@
 # mercadolibre
 
-#start app
-npm run dev
+## how to run it:
+    Clone the project
+    npm install
+    npm run dev
+
 
 #start server app
 npm run server
